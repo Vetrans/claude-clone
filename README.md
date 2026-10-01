@@ -1,0 +1,3 @@
+# Claude Clone
+
+Workspace initialized.
